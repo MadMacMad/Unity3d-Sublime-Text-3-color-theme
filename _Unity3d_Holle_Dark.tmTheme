@@ -77,7 +77,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#C72A79</string>
+				<string>#D8006C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -165,8 +165,6 @@
 			<string>variable</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#CCCCCC</string>
 				<key>background</key>
@@ -329,7 +327,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8996A8</string>
+				<string>#57BD4F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -340,7 +338,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AFC4DB</string>
+				<string>#99CC9D</string>
 			</dict>
 		</dict>
 		<dict>
